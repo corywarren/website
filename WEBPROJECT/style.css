@@ -1,0 +1,131 @@
+html, body{
+	height: 100%;
+	width:100%;
+	margin:0;
+	padding:0;
+	text-align:center;
+	font-family:Lato;
+
+}
+
+/* As awful as this sounds, I have no notes for this. But I know EXACTLY how it works haha.
+Shame on me, I know.
+*/
+
+@font-face {
+	font-family:Lato;
+	src:url('https://fonts.googleapis.com/css?family=Lato');
+}
+
+.phage {
+	height:100%;
+	width:80%;
+	background-size:cover;
+	background-attachment:fixed;
+	float:right;
+}
+
+.phage2 {
+	height:100%;
+	width:80%;
+	background-size:cover;
+	background-attachment:fixed;
+	float:right;
+	color:#f5f5f5;
+}
+
+
+.sheen {
+	height:40%;
+	width:80%;
+	background-size:cover;
+	background-attachment:fixed;
+	float:right;
+	color:#f5f5f5;
+}
+
+.zeal {
+	height:170%;
+	width:80%;
+	background-size:cover;
+	background-attachment:fixed;
+	float:right;
+	color:#f5f5f5;
+}
+
+.one {
+	background-image: url('images/memememe.jpg');
+}
+
+.two {
+	background-color:#000000;
+}
+
+.three {
+	background-image: url('images/youyouyou.jpg')
+}
+
+.four {
+	background-color:#000000;
+	
+}
+
+.five {
+	background-image:url('images/desk.jpg');
+}
+
+.triforce {
+	height:100%;
+	width:20%;
+	background-repeat: no-repeat;
+	background-attachment: fixed, absolute;
+	background-color:#2a2a2a;
+	color:#f5f5f5;
+	float:left;
+	position:fixed;
+}
+
+.font30 {
+	font-size:30px;
+}
+
+.gallery ul li {
+	list-style:none;
+	display:block;
+	float:left;
+	padding:5px;
+	text-align:center;
+}
+
+.gallery2 ul li {
+	float:left;
+	list-style:none;
+	display:block;
+	padding:5px;
+	text-align:center;
+	color:#f5f5f5;
+	opacity:0.9;
+}
+
+.opacity {
+	opacity:0.7;
+}
+
+.special {
+	height:25em;
+	width:19em;
+}
+
+.special2 {
+	height:15%;
+	width:70%;
+}
+
+.specialprofile {
+	height:24%;
+	width:80%;
+}
+
+.righteous {
+	color:#f5f5f5;
+}
